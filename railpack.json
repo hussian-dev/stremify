@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "node": {
+      "version": "20"
+    }
+  }
+}
