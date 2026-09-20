@@ -1,7 +1,5 @@
 {
   "packages": {
-    "node": {
-      "version": "20"
-    }
+    "node": "20"
   }
 }
